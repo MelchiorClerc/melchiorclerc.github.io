@@ -26,7 +26,8 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Courier New', 'Arial', 'Sans-Serif';
+    font-family:'Courier New', monospace ;
+    font-weight: normal;
 }
 
 p {
