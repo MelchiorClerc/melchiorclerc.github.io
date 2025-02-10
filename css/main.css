@@ -30,6 +30,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -42,4 +43,15 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+link-button {
+  display: inline-block;
+  padding: 5px 10px;
+  margin-right: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-decoration: none;
+  border-radius: 3px;
+  transition: background-color 0.3s;
 }
