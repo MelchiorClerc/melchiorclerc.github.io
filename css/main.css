@@ -11,7 +11,7 @@ body {
 
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Courier New', monospace;
     padding: 0px;
     list-style: none;
     font-weight: bold;
