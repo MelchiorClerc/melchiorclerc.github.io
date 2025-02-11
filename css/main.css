@@ -23,6 +23,7 @@ nav ul li, footer ul li {
 }
 
 a {
+    font-family:'Courier New', monospace;
     text-decoration: none;
     color: #999;
 }
