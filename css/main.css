@@ -64,10 +64,10 @@ ul.posts {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   margin-bottom: 0.4rem;
-  border: 1px solid mediumslateblue;
-  color: mediumslateblue; }
+  border: 1px solid darkslateblue;
+  color: darkslateblue; }
   .btn:hover {
-    background: mediumslateblue;
+    background: darkslateblue;
     color: #FAFAFA;
     cursor: pointer; }
 
