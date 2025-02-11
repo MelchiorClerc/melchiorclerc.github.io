@@ -66,9 +66,9 @@ ul.posts {
   font-weight: 400;
   margin-bottom: 0.4rem;
   border: 1px solid #1565c0;
-  color: #1565c0; }
+  color: mediumorchid; }
   .btn:hover {
-    background: #1565c0;
+    background: mediumorchid;
     color: #FAFAFA;
     cursor: pointer; }
 
