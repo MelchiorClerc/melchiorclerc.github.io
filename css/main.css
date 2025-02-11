@@ -65,10 +65,10 @@ ul.posts {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   margin-bottom: 0.4rem;
-  border: 1px solid #1565c0;
-  color: mediumorchid; }
+  border: 1px solid mediumslateblue;
+  color: mediumslateblue; }
   .btn:hover {
-    background: mediumorchid;
+    background: mediumslateblue;
     color: #FAFAFA;
     cursor: pointer; }
 
