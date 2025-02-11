@@ -1,3 +1,5 @@
+/* <link href="https://fonts.cdnfonts.com/css/swis721-ltcn-bt" rel="stylesheet"> */
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -28,7 +30,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Courier New', monospace ;
-    font-weight: normal  !important;
+    /* font-weight: normal  !important; */
 }
 
 p {
