@@ -1,7 +1,7 @@
-/* @import url('https://fonts.cdnfonts.com/css/swis721-ltcn-bt'); */
+@import url('https://fonts.cdnfonts.com/css/swis721-ltcn-bt'); 
 
 body {
-    font-family: 'Helvetica', monospace;
+    font-family: 'Swis721 LtCn BT', monospace;
     margin: 60px auto;
     width: 70%;
     text-align: justify;
