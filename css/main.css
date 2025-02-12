@@ -80,6 +80,10 @@ ul.posts {
 }
 
 .btn-container {
-    display: inline-block;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px; 
+    min-width: 280px; 
 }
+
 
