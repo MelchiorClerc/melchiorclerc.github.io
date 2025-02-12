@@ -72,3 +72,14 @@ ul.posts {
 
 .btn-sm {
   font-size: small; }
+
+.label {
+    display: inline-block;
+    min-width: 280px; 
+    text-align: left; 
+}
+
+.btn-container {
+    display: inline-block;
+}
+
