@@ -1,7 +1,3 @@
-# empty
-
-melchiorclerc.github.io
-
-empty
+# melchiorclerc.github.io
 
 My personal website.
